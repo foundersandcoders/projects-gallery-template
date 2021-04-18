@@ -181,43 +181,43 @@ const data = {
         }
       ]
     },
-    // {
-    //   week: 4,
-    //   theme: "Server",
-    //   projects: [
-    //     {
-    //       title: "?",
-    //       img:
-    //         "#",
-    //       team: ["Mariya", "Craig", "Evgeny", "Maryam"],
-    //       github: "#",
-    //       description: "?"
-    //     },
-    //     {
-    //       title: "?",
-    //       img:
-    //         "#",
-    //       team: ["Rosie", "Amy", "Nafisa", "Antonio"],
-    //       github: "#",
-    //       description: "?"
-    //     },
-    //     {
-    //       title: "?",
-    //       img:
-    //         "#",
-    //       team: ["Jo", "Chun", "Saki", "Michael"],
-    //       github: "#",
-    //       description: "?"
-    //     },
-    //     {
-    //       title: "?",
-    //       img: "#",
-    //       team: ["Pineapple", "Sevda", "Neville", "Safia"],
-    //       github: "#",
-    //       description: "?"
-    //     }
-    //   ]
-    // }
+    {
+      week: 4,
+      theme: "Server",
+      projects: [
+        {
+          title: "Micro Blog",
+          img:
+            "https://raw.githubusercontent.com/fac21/week4-EM2C/main/public/micro-logo.png",
+          team: ["Mariya", "Craig", "Evgeny", "Maryam"],
+          github: "https://github.com/fac21/week4-EM2C",
+          description: "A blog"
+        },
+        {
+          title: "Porky Pies",
+          img:
+            "https://raw.githubusercontent.com/fac21/week4-blog-AANR/main/public/images/favicon.ico",
+          team: ["Rosie", "Amy", "Nafisa", "Antonio"],
+          github: "https://github.com/fac21/week4-blog-AANR",
+          description: "A blog"
+        },
+        {
+          title: "Twaddle",
+          img:
+            "https://user-images.githubusercontent.com/31373245/115014086-c9f6fa00-9ea9-11eb-8701-7543e47e5252.png",
+          team: ["Jo", "Chun", "Saki", "Michael"],
+          github: "https://github.com/fac21/week4-blog-SMCJ",
+          description: "A blog"
+        },
+        {
+          title: "Movie Review Blog",
+          img: "#",
+          team: ["Pineapple", "Sevda", "Neville", "Safia"],
+          github: "https://github.com/fac21/Week-4-Mini-blog-CNSS",
+          description: "A blog"
+        }
+      ]
+    }
   ],
   people: [
     {
