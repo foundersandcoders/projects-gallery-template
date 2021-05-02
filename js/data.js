@@ -217,6 +217,80 @@ const data = {
           description: "A blog"
         }
       ]
+    },
+    {
+      week: 5,
+      theme: "Database",
+      projects: [
+        {
+          title: "Recipe Website",
+          img:
+            "https://raw.githubusercontent.com/fac21/week-5-scam-app/main/public/foodpic.jpg",
+          team: ["Amy", "Mariya", "Saki", "Pineapple"],
+          github: "https://github.com/fac21/week-5-scam-app",
+          description: "An app with a heroku-hosted PostgreSQL database."
+        },
+        {
+          title: "Park Finder",
+          img:
+            "#",
+          team: ["Sevda", "Michael", "Nafisa", "Evgeny"],
+          github: "https://github.com/fac21/week5--Web-App--EMNS",
+          description: "An app with a heroku-hosted PostgreSQL database."
+        },
+        {
+          title: "With Compliments",
+          img:
+            "https://raw.githubusercontent.com/fac21/week5-database-acsm/main/homepage.png",
+          team: ["Safia", "Chun", "Antonio", "Maryam"],
+          github: "https://github.com/fac21/week5-database-acsm",
+          description: "An app with a heroku-hosted PostgreSQL database."
+        },
+        {
+          title: "Facbook",
+          img: "https://raw.githubusercontent.com/fac21/week-5-jncr/main/public/images/facbook-logo.png",
+          team: ["Rosie", "Jo", "Neville", "Craig"],
+          github: "https://github.com/fac21/week-5-jncr",
+          description: "An app with a heroku-hosted PostgreSQL database."
+        }
+      ]
+    },
+    {
+      week: 6,
+      theme: "Authentication",
+      projects: [
+        {
+          title: "SCAM Food",
+          img:
+            "#",
+          team: ["Amy", "Mariya", "Saki", "Pineapple"],
+          github: "https://github.com/fac21/week6-scam-food",
+          description: "A web app that authenticates users"
+        },
+        {
+          title: "Park Life",
+          img:
+            "https://raw.githubusercontent.com/fac21/Week6--Web-App--EMNS/main/public/parklife.png",
+          team: ["Sevda", "Michael", "Nafisa", "Evgeny"],
+          github: "https://github.com/fac21/Week6--Web-App--EMNSR",
+          description: "A web app that authenticates users"
+        },
+        {
+          title: "Checkin'",
+          img:
+            "https://week6-authentication.herokuapp.com/logo.png",
+          team: ["Safia", "Chun", "Antonio", "Maryam"],
+          github: "https://github.com/fac21/week-6-csam",
+          description: "A web app that authenticates users"
+        },
+        {
+          title: "Grinder",
+          img: "https://user-images.githubusercontent.com/54359248/116686238-71485680-a9ab-11eb-9fcd-4bbc2fc84d75.png",
+          team: ["Rosie", "Jo", "Neville", "Craig"],
+          github: "https://github.com/fac21/week6-app-jcnr",
+          description: "A web app that authenticates users"
+        }
+      ]
     }
   ],
   people: [
