@@ -291,6 +291,43 @@ const data = {
           description: "A web app that authenticates users"
         }
       ]
+    },
+    {
+      week: 7,
+      theme: "Server-side App",
+      projects: [
+        {
+          title: "Name My Kitty",
+          img:
+            "https://name-my-kitty.herokuapp.com/images/logoweek7.png",
+          team: ["Jo", "Evgeny", "Saki", "Safia"],
+          github: "https://github.com/fac21/week7-jess",
+          description: "A Node/Express server-rendered application with a Postgres database."
+        },
+        {
+          title: "Whataa Game",
+          img:
+            "#",
+          team: ["Sevda", "Antonio", "Amy", "Neville"],
+          github: "https://github.com/fac21/Week7--Server-Side-App-AANS",
+          description: "A Node/Express server-rendered application with a Postgres database."
+        },
+        {
+          title: "Leaf It Out",
+          img:
+            "https://raw.githubusercontent.com/fac21/mc-mc-leaf-it-out/main/public/leaf-it-out-logo.png",
+          team: ["Craig", "Pineapple", "Michael", "Maryam"],
+          github: "https://github.com/fac21/mc-mc-leaf-it-out",
+          description: "A Node/Express server-rendered application with a Postgres database."
+        },
+        {
+          title: "Photo App",
+          img: "https://raw.githubusercontent.com/fac21/Week-7-rcmn/5da4b84a9e21d5a0389b7029bc3a2bbc0179f2c0/public/city.svg",
+          team: ["Nafisa", "Chun", "Mariya", "Rosie"],
+          github: "https://github.com/fac21/Week-7-rcmn",
+          description: "A Node/Express server-rendered application with a Postgres database."
+        }
+      ]
     }
   ],
   people: [
