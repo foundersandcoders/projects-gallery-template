@@ -328,6 +328,74 @@ const data = {
           description: "A Node/Express server-rendered application with a Postgres database."
         }
       ]
+    },
+    {
+      week: 8,
+      theme: "Client-side App",
+      projects: [
+        {
+          title: "Queen Craig/Chisha",
+          img:
+            "https://stupefied-mayer-f4475b.netlify.app/assets/queen-logo.2cfd3662.png",
+          team: ["Pineapple", "Craig"],
+          github: "https://github.com/fac21/Queen-CraigChisha",
+          description: "An interactive game built in React that uses data from an API."
+        },
+        {
+          title: "Don Quizote",
+          img:
+            "https://raw.githubusercontent.com/fac21/Week-8-MM-Quiz/9ae0cae5961df146f3b1188e20a8a014d867f13d/src/logo.svg",
+          team: ["Michael", "Maryam"],
+          github: "https://github.com/fac21/Week-8-MM-Quiz",
+          description: "An interactive game built in React that uses data from an API."
+        },
+        {
+          title: "FAC Tamagochi",
+          img:
+            "https://user-images.githubusercontent.com/59439482/118153018-534c0e80-b40d-11eb-9a55-afa3a45f863d.png",
+          team: ["Sevda", "Saki"],
+          github: "https://github.com/fac21/Week8--Client-Side-App--SS",
+          description: "An interactive game built in React that uses data from an API."
+        },
+        {
+          title: "Game On Ghibli",
+          img: "https://raw.githubusercontent.com/fac21/week_8_cn/master/src/popcorn1.png",
+          team: ["Chun", "Neville"],
+          github: "https://github.com/fac21/week_8_cn",
+          description: "An interactive game built in React that uses data from an API."
+        },
+        {
+          title: "Where Are The FAC Cats?",
+          img:
+            "https://user-images.githubusercontent.com/57327617/118157790-e63b7780-b412-11eb-8971-7ee5054df023.png",
+          team: ["Amy", "Evgeny"],
+          github: "https://github.com/fac21/week8-evgamy",
+          description: "An interactive game built in React that uses data from an API."
+        },
+        {
+          title: "NASA Card Game",
+          img:
+            "https://raw.githubusercontent.com/fac21/week8-RA/main/src/public/rocket.png",
+          team: ["Rosie", "Antonio"],
+          github: "https://github.com/fac21/week8-RA",
+          description: "An interactive game built in React that uses data from an API."
+        },
+        {
+          title: "Movie Wiz",
+          img:
+            "https://raw.githubusercontent.com/fac21/Week-8-MM-Quiz/9ae0cae5961df146f3b1188e20a8a014d867f13d/src/logo.svg",
+          team: ["Safia", "Nafisa"],
+          github: "https://github.com/fac21/SN-week8",
+          description: "An interactive game built in React that uses data from an API."
+        },
+        {
+          title: "VSCode Live Scare",
+          img: "https://camo.githubusercontent.com/859b2ff450ab65f2ba78e37d5fa87149104fd900e290bbb360b4910eb5926d57/68747470733a2f2f692e696d6775722e636f6d2f36487036796e6e2e706e67",
+          team: ["Mariya", "Jo"],
+          github: "https://github.com/fac21/week8-MJ",
+          description: "An interactive game built in React that uses data from an API."
+        }
+      ]
     }
   ],
   people: [
