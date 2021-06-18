@@ -396,7 +396,44 @@ const data = {
           description: "An interactive game built in React that uses data from an API."
         }
       ]
-    }
+    },
+    {
+      week: 9,
+      theme: "Full-stack App",
+      projects: [
+        {
+          title: "Designer Donuts",
+          img:
+            "https://user-images.githubusercontent.com/64862888/119126520-04b0fc80-ba2b-11eb-90eb-58e7d602587c.png",
+          team: ["Pineapple", "Craig", "Saki", "Sevda"],
+          github: "https://github.com/fac21/E-commerce-app-CSCS",
+          description: "A full-stack e-commerce site, server-rendered with Next.js."
+        },
+        {
+          title: "Artisinal Cows",
+          img:
+            "https://raw.githubusercontent.com/fac21/week9-caen/main/public/logo.png",
+          team: ["Chun", "Evgeny", "Amy", "Neville"],
+          github: "https://github.com/fac21/week9-caen",
+          description: "A full-stack e-commerce site, server-rendered with Next.js."
+        },
+        {
+          title: "A Bunch Of Mugs",
+          img:
+            "https://raw.githubusercontent.com/fac21/Week-9-RAMM/main/public/images/mug.png",
+          team: ["Rosie", "Antonio", "Michael", "Maryam"],
+          github: "https://github.com/fac21/Week-9-RAMM",
+          description: "A full-stack e-commerce site, server-rendered with Next.js."
+        },
+        {
+          title: "Rollernuts",
+          img: "https://raw.githubusercontent.com/fac21/week9-sjmn/87253dfde7d2ee207099679a708c9cf6f12b450a/public/images/donut-logo.svg",
+          team: ["Nafisa", "Safia", "Mariya", "Jo"],
+          github: "https://github.com/fac21/week9-sjmn",
+          description: "A full-stack e-commerce site, server-rendered with Next.js."
+        }
+      ]
+    },
   ],
   people: [
     {
