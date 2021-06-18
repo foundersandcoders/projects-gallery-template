@@ -434,6 +434,43 @@ const data = {
         }
       ]
     },
+    {
+      week: 10-12,
+      theme: "Final Project",
+      projects: [
+        {
+          title: "UK Travel Swap",
+          img:
+            "https://camo.githubusercontent.com/7972e52cc0f693d40aa18439d13c26d58ec09004c5ff99611129edd91f3d114c/68747470733a2f2f692e696d6775722e636f6d2f6b557450754d4f2e706e67",
+          team: ["Rosie", "Antonio", "Saki", "Evgeny"],
+          github: "https://github.com/fac21/final-project-RASE",
+          description: "A full-stack travel itinerary site, server-rendered with Next.js."
+        },
+        {
+          title: "TeleGran",
+          img:
+            "https://camo.githubusercontent.com/a452338ce6bfee6710c74518f2cd15401a33b4582c6ce8f96ce4f43fdb35b8f9/68747470733a2f2f692e696d6775722e636f6d2f476f47385543652e706e67",
+          team: ["Chun", "Jo", "Nafisa", "Pineapple"],
+          github: "https://github.com/fac21/final-project-telegran",
+          description: "A messenging app built in React and serving data using Slack APIs"
+        },
+        {
+          title: "Chummy",
+          img:
+            "https://raw.githubusercontent.com/fac21/Final-project-NSMM/4c5e264d871b7f6bb217c9c4d10e8d87880c808d/public/images/friends/Friendship-bro.svg",
+          team: ["Safia", "Neville", "Michael", "Mariya"],
+          github: "https://github.com/fac21/Final-project-NSMM",
+          description: "A full-stack social networking site, server-rendered with Next.js."
+        },
+        {
+          title: "Connecta",
+          img: "https://raw.githubusercontent.com/fac21/final-project-macs/main/public/images/Landing-page.png",
+          team: ["Amy", "Craig", "Maryam", "Sevda"],
+          github: "https://github.com/fac21/final-project-macs",
+          description: "A full-stack social networking site, server-rendered with Next.js."
+        }
+      ]
+    },
   ],
   people: [
     {
