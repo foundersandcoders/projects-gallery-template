@@ -435,7 +435,7 @@ const data = {
       ]
     },
     {
-      week: 10-12,
+      week: 10,
       theme: "Final Project",
       projects: [
         {
