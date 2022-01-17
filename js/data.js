@@ -7,18 +7,18 @@ const data = {
       theme: "Teamwork",
       projects: [
         {
-          title: "Project 1",
+          title: "Tiny thoughts",
           img: "",
-          team: ["Person 1", "Person 2", "Person 3", "Person 4"],
-          github: "https://github.com",
-          description: "Project description",
+          team: ['Paolo,Milly,Juliette,Paolo'],
+          github: 'https://github.com/fac-23/app-week1-team1.git',
+          description: 'Micro-blogging site',
         },
         {
-          title: "Project 2",
+          title: "Moo-net",
           img: "",
-          team: ["Person 1", "Person 2", "Person 3", "Person 4"],
-          github: "https://github.com",
-          description: "Project description",
+          team: ['Orian,Miah,Oli'],
+          github: 'https://github.com/fac-23/microblogging-oli-orian-miah.git',
+          description: "Micro-blogging site",
         },
         {
           title: "Project 3",
