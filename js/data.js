@@ -143,6 +143,30 @@ const data = {
       ],
     },
   ],
+  weeks: [
+    {
+      week: 7,
+      theme: "In-House Final Project",
+      projects: [
+        {
+          title: "Trip Planner",
+          img: "assets/tripplanner.png",
+          team: ["Orian, Paolo, Milly"],
+          github: "https://github.com/fac-23/trip-planner",
+          description:
+            "A travel app to store your travel documents and plan your trips",
+        },
+        {
+          title: "Be-kind_re-mind",
+          img: "assets/bekindremind.png",
+          team: ["Adam, Miah, Oli, Juliette"],
+          github: "https://github.com/fac-23/be-kind_re-mind",
+          description:
+            "An app to remind and track your medication schedule to ensure you take your medications consitently",
+        },
+      ],
+    },
+  ],
   people: [
     {
       name: "Oli",
