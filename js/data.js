@@ -15,7 +15,7 @@ const data = {
         },
         {
           title: "Moo-net",
-          img: "assests/moonet.png",
+          img: "assets/moonet.png",
           team: ["Orian, Miah, Oli"],
           github: "https://github.com/fac-23/microblogging-oli-orian-miah.git",
           description: "Micro-blogging site",
