@@ -22,8 +22,6 @@ const data = {
         },
       ],
     },
-  ],
-  weeks: [
     {
       week: 2,
       theme: "Database",
@@ -44,8 +42,6 @@ const data = {
         },
       ],
     },
-  ],
-  weeks: [
     {
       week: 3,
       theme: "Authentication",
@@ -68,8 +64,6 @@ const data = {
         },
       ],
     },
-  ],
-  weeks: [
     {
       week: 4,
       theme: "Server-Side App",
@@ -90,8 +84,6 @@ const data = {
         },
       ],
     },
-  ],
-  weeks: [
     {
       week: 5,
       theme: "Client-Side App",
@@ -119,8 +111,6 @@ const data = {
         },
       ],
     },
-  ],
-  weeks: [
     {
       week: 6,
       theme: "Full-stack App",
@@ -142,8 +132,6 @@ const data = {
         },
       ],
     },
-  ],
-  weeks: [
     {
       week: 7,
       theme: "In-House Final Project",
