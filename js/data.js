@@ -134,7 +134,7 @@ const data = {
     },
     {
       week: 7,
-      theme: "In-House Final Project",
+      theme: "In-House Final Projects (Weeks 7-9)",
       projects: [
         {
           title: "Trip Planner",
@@ -150,7 +150,28 @@ const data = {
           team: ["Adam, Miah, Oli, Juliette"],
           github: "https://github.com/fac-23/be-kind_re-mind",
           description:
-            "An app to remind and track your medication schedule to ensure you take your medications consitently",
+            "An app to remind and track your medication schedule to ensure you take your medications consistently",
+        },
+      ],
+    },
+    {
+      week: 10,
+      theme: "Tech for Better Projects (Weeks 10-12)",
+      projects: [
+        {
+          title: "Lusan",
+          img: "assets/lusan.png",
+          team: ["Orian, Juliette, Miah, Milly"],
+          github: "https://github.com/fac-23/lusan-tfb",
+          description:
+            "An e-commerce style site to streamline buying seeds by signposting to sellers",
+        },
+        {
+          title: "Exam-Grade-Boost",
+          img: "assets/examgradeboost.png",
+          team: ["Adam, Paolo, Oli"],
+          github: "https://github.com/fac-23/Exam-grade-boost",
+          description: "A visual approach to essay writing",
         },
       ],
     },
