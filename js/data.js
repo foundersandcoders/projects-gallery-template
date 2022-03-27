@@ -9,14 +9,14 @@ const data = {
         {
           title: "Tiny thoughts",
           img: "assets/tinythoughts.png",
-          team: ["Paolo, Milly, Juliette, Paolo"],
+          team: ["Paolo", "Milly", "Juliette", "Adam"],
           github: "https://github.com/fac-23/app-week1-team1.git",
           description: "Micro-blogging site",
         },
         {
           title: "Moo-net",
           img: "assets/moonet.png",
-          team: ["Orian, Miah, Oli"],
+          team: ["Orian", "Miah", "Oli"],
           github: "https://github.com/fac-23/microblogging-oli-orian-miah.git",
           description: "Micro-blogging site",
         },
@@ -29,14 +29,14 @@ const data = {
         {
           title: "Who Said That",
           img: "assets/whosaidthat.png",
-          team: ["Miah, Oli, Milly, Adam"],
+          team: ["Miah", "Oli", "Milly", "Adam"],
           github: "https://github.com/fac-23/week2-database",
           description: "App that stores data in PostgreSQL database",
         },
         {
           title: "Nom Nom",
           img: "assets/nomnom.png",
-          team: ["Paolo, Juliette, Orian"],
+          team: ["Paolo", "Juliette", "Orian"],
           github: "https://github.com/fac-23/week2-database-team2",
           description: "App that stores data in PostgreSQL database",
         },
@@ -49,7 +49,7 @@ const data = {
         {
           title: "Potify",
           img: "assets/potify.png",
-          team: ["Oli, Adam, Paolo"],
+          team: ["Oli", "Adam", "Paolo"],
           github: "https://github.com/fac-23/week3-oli-adam-paolo",
           description:
             "App that authenticates users and stores data in PostgreSQL database",
@@ -57,7 +57,7 @@ const data = {
         {
           title: "Dev Pop",
           img: "assets/devpop.png",
-          team: ["Miah, Orian, Milly, Juliette"],
+          team: ["Miah", "Orian", "Milly", "Juliette"],
           github: "https://github.com/fac-23/week3-auth-team2",
           description:
             "App that authenticates users and stores data in PostgreSQL database",
@@ -71,14 +71,14 @@ const data = {
         {
           title: "Dogs and Frogs",
           img: "assets/dogsfrogs.png",
-          team: ["Oli, Adam, Miah, Juliette"],
+          team: ["Oli", "Adam", "Miah", "Juliette"],
           github: "https://github.com/fac-23/week4_team1",
           description: "Post pictures of your dogs or frogs",
         },
         {
           title: "Petarazzi",
           img: "assets/petarazzi.png",
-          team: ["Milly, Paolo, Orian"],
+          team: ["Milly", "Paolo", "Orian"],
           github: "https://github.com/fac-23/week4-milly-paolo-orian",
           description: "Post pictures of your pets",
         },
@@ -91,21 +91,21 @@ const data = {
         {
           title: "Zodifac",
           img: "assets/zodifac.png",
-          team: ["Oli, Milly, Juliette"],
+          team: ["Oli", "Milly", "Juliette"],
           github: "https://github.com/fac-23/week5-juliette-oli-milly",
           description: "Interactive React game using data from an API",
         },
         {
           title: "Fac Quest",
           img: "assets/facquest.png",
-          team: ["Paolo, Miah"],
+          team: ["Paolo", "Miah"],
           github: "https://github.com/fac-23/week5-react-paolo-miah",
           description: "Interactive React game using data from an API",
         },
         {
           title: "Pokemon Racing Game",
           img: "assets/pokemonracer.png",
-          team: ["Adam, Orian"],
+          team: ["Adam", "Orian"],
           github: "https://github.com/fac-23/week5-adam-orian",
           description: "Interactive React game using data from an API",
         },
@@ -118,7 +118,7 @@ const data = {
         {
           title: "Crocoholics",
           img: "assets/crocoholics.png",
-          team: ["Juliette, Paolo, Miah"],
+          team: ["Juliette", "Paolo", "Miah"],
           github:
             "https://github.com/fac-23/week6-fullstack-juliette-paolo-miah",
           description: "E-commerce Shopping Site",
@@ -126,7 +126,7 @@ const data = {
         {
           title: "Tasty Cakes",
           img: "assets/tastycakes.png",
-          team: ["Adam, Milly, Oli, Orian"],
+          team: ["Adam", "Milly", "Oli", "Orian"],
           github: "https://github.com/fac-23/week6-adam-milly-oli-orian",
           description: "E-commerce Shopping Site",
         },
@@ -139,7 +139,7 @@ const data = {
         {
           title: "Trip Planner",
           img: "assets/tripplanner.png",
-          team: ["Orian, Paolo, Milly"],
+          team: ["Orian", "Paolo", "Milly"],
           github: "https://github.com/fac-23/trip-planner",
           description:
             "A travel app to store your travel documents and plan your trips",
@@ -147,7 +147,7 @@ const data = {
         {
           title: "Be-kind_re-mind",
           img: "assets/bekindremind.png",
-          team: ["Adam, Miah, Oli, Juliette"],
+          team: ["Adam", "Miah", "Oli", "Juliette"],
           github: "https://github.com/fac-23/be-kind_re-mind",
           description:
             "An app to remind and track your medication schedule to ensure you take your medications consistently",
@@ -161,7 +161,7 @@ const data = {
         {
           title: "Lusan",
           img: "assets/lusan.png",
-          team: ["Orian, Juliette, Miah, Milly"],
+          team: ["Orian", "Juliette", "Miah", "Milly"],
           github: "https://github.com/fac-23/lusan-tfb",
           description:
             "An e-commerce style site to streamline buying seeds by signposting to sellers",
@@ -169,7 +169,7 @@ const data = {
         {
           title: "Exam-Grade-Boost",
           img: "assets/examgradeboost.png",
-          team: ["Adam, Paolo, Oli"],
+          team: ["Adam", "Paolo", "Oli"],
           github: "https://github.com/fac-23/Exam-grade-boost",
           description: "A visual approach to essay writing",
         },
