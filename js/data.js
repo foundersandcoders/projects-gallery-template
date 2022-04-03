@@ -269,8 +269,8 @@ const data = {
             "An e-commerce style site to streamline buying seeds by signposting to sellers",
         },
         {
-          title: "Exam-Grade-Boost",
-          img: "assets/examgradeboost.png",
+          title: "Essay Boost",
+          img: "assets/essayboost.png",
           team: ["Adam", "Paolo", "Oli"],
           github: "https://github.com/fac-23/Exam-grade-boost",
           description: "A visual approach to essay writing",
