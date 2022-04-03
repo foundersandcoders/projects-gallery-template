@@ -3,6 +3,108 @@ console.log("data.js");
 const data = {
   weeks: [
     {
+      week: -2,
+      theme: "Markup - first project of part time course",
+      projects: [
+        {
+          title: "Focus",
+          img: "assets/focus.jpg",
+          team: ["Paolo", "Milly"],
+          github: "https://github.com/fac-23/preA-markup-week2-millypaolo",
+          description: "Front End Agency Website",
+        },
+        {
+          title: "Agile",
+          img: "assets/agile.jpg",
+          team: ["Juliette", "Adam"],
+          github: "https://github.com/fac-23/Juliette-Adam-week3",
+          description: "Front End Agency Website",
+        },
+        {
+          title: "OliRay",
+          img: "assets/oliray.jpg",
+          team: ["Ray", "Oli"],
+          github: "https://github.com/fac-23/preA-week2-rayOli",
+          description: "Front End Agency Website",
+        },
+        {
+          title: "FACgency",
+          img: "assets/FACgency.jpg",
+          team: ["Miah", "Orian"],
+          github: "https://github.com/fac-23/preA-week2-miahorian",
+          description: "Front End Agency Website",
+        },
+      ],
+    },
+    {
+      week: -1,
+      theme: "HTTP - second project of part time course",
+      projects: [
+        {
+          title: "FAC News",
+          img: "assets/FACNews.jpg",
+          team: ["Miah", "Adam"],
+          github: "https://github.com/fac-23/preA-http-week2-AdamMiah",
+          description: "App that fetches data from APIs",
+        },
+        {
+          title: "Pokemon Hunter",
+          img: "assets/Pokemonhunter.jpg",
+          team: ["Milly", "Oli"],
+          github: "https://github.com/fac-23/preA-week2-http-olimilly",
+          description: "App that fetches data from APIs",
+        },
+        {
+          title: "Travel Buddy",
+          img: "assets/travelbuddy.jpg",
+          team: ["Paolo", "Juliette"],
+          github: "https://github.com/fac-23/preA-http-week2-juliettepao",
+          description: "App that fetches data from APIs",
+        },
+        {
+          title: "Crime Checker",
+          img: "assets/crimechecker.jpg",
+          team: ["Ray", "Orian"],
+          github: "https://github.com/fac-23/preA-week2-http-rayorian",
+          description: "App that fetches data from APIs",
+        },
+      ],
+    },
+    {
+      week: 0,
+      theme: "Testing - third project of part time course",
+      projects: [
+        {
+          title: "Jello",
+          img: "assets/jello.jpg",
+          team: ["Oli", "Juliette"],
+          github: "https://github.com/fac-23/preA-week9-julietteOli",
+          description: "To Do List App",
+        },
+        {
+          title: "To Do List Tracker",
+          img: "assets/todoadampaolo.jpg",
+          team: ["Adam", "Paolo"],
+          github: "https://github.com/fac-23/preA-testing-week2-adampaolo",
+          description: "To Do List App",
+        },
+        {
+          title: "To Do List App",
+          img: "assets/todoorianmilly.jpg",
+          team: ["Orian", "Milly"],
+          github: "https://github.com/fac-23/preA-week2-testing-orianmilly",
+          description: "To Do List App",
+        },
+        {
+          title: "Task List",
+          img: "assets/todoraymiah.jpg",
+          team: ["Ray", "Miah"],
+          github: "https://github.com/fac-23/preA-testing-raymiah",
+          description: "To Do List App",
+        },
+      ],
+    },
+    {
       week: 1,
       theme: "Server",
       projects: [
@@ -167,8 +269,8 @@ const data = {
             "An e-commerce style site to streamline buying seeds by signposting to sellers",
         },
         {
-          title: "Exam-Grade-Boost",
-          img: "assets/examgradeboost.png",
+          title: "Essay Boost",
+          img: "assets/essayboost.png",
           team: ["Adam", "Paolo", "Oli"],
           github: "https://github.com/fac-23/Exam-grade-boost",
           description: "A visual approach to essay writing",
@@ -210,6 +312,11 @@ const data = {
     {
       name: "Miah",
       handle: "miahbates",
+      img: "",
+    },
+    {
+      name: "Ray",
+      handle: "raythompsonwebdev",
       img: "",
     },
   ],
